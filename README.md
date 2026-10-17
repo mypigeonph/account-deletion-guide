@@ -1,6 +1,6 @@
 # How to Delete Your Account and Data
 
-Since **My Pigeon PH** is an offline-first app, your pigeon records, loft data, and pedigree details are stored locally on your device, while minimal account and device metadata (`users` and `devices`) is kept in Cloud Firestore[cite: 6, 7].   
+Since **My Pigeon PH** is an offline-first app, your pigeon records, loft data, and pedigree details are stored locally on your device, while minimal account and device metadata (`users` and `devices`) is kept in Cloud Firestore.   
 
 You have two ways to remove your account, but **if you have already deleted your account directly inside the app, there is no need to submit a request through the web portal.**
 
@@ -16,7 +16,7 @@ If you delete your account directly through the app settings:
 ### Option 2: Request via Web Portal or Email
 If you are unable to access the app and need to request cloud data removal manually:
 1. Contact developer support or visit our portal using your registered email address (`mypigeonph@gmail.com`).
-2. Once processed, your **User Profile (`users`)** and **Device Bindings (`devices`)** stored in Firestore will be permanently purged[cite: 6, 7].   
+2. Once processed, your **User Profile (`users`)** and **Device Bindings (`devices`)** stored in Firestore will be permanently purged.   
 
 ---
 
